@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "359428286752",
+    "project_id": "calendarapp-426914",
+    "storage_bucket": "calendarapp-426914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359428286752:android:1e7246d6fbdb8a244a4f45",
+        "android_client_info": {
+          "package_name": "com.cheq.calendarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359428286752-7dprv1shdkpa9qurdvug6cl2c7hb094h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cheq.calendarapp",
+            "certificate_hash": "c10788744f8dcaa4644bca28a35986bec70b86cb"
+          }
+        },
+        {
+          "client_id": "359428286752-n7m91gbvm274qgg4neu17ae9rlj386k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVDIoHe1aMt1cHtldZeSq2lnl0pckgnok"
+        },
+        {
+          "current_key": "AIzaSyD-V1D4jWvdJvdqXlUH5jcBhMoI0mD-fMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359428286752-n7m91gbvm274qgg4neu17ae9rlj386k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359428286752:android:1b5ff96a8117451f4a4f45",
+        "android_client_info": {
+          "package_name": "com.demo.googlecalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359428286752-48dbon83rn32r6hl08gama8fsd3bbv91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.googlecalendar",
+            "certificate_hash": "c4db95ea04906ca7905da4f0d560ed1e08a2ba56"
+          }
+        },
+        {
+          "client_id": "359428286752-n7m91gbvm274qgg4neu17ae9rlj386k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVDIoHe1aMt1cHtldZeSq2lnl0pckgnok"
+        },
+        {
+          "current_key": "AIzaSyD-V1D4jWvdJvdqXlUH5jcBhMoI0mD-fMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359428286752-n7m91gbvm274qgg4neu17ae9rlj386k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
